@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 👤 I am a web developer with focus more on the backend.
 - 🔭 I’m currently working on my side project in Golang and Fyne.
 - 🌱 I’m currently learning Golang, GCP and on the way to a professional Golang developer.
 - 👯 I’m looking to collaborate on exciting projects in a new work environment.
