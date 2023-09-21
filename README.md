@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **taofit/taofit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tao_sun@hotmail.com
 - 😄 Pronouns: Tao
 - ⚡ Fun fact: like to take long walk, buying books and but not much time to read them all.
--->
+
