@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-**taofit/taofit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my side project in Golang and Fyne.
 - 🌱 I’m currently learning Golang, GCP and on the way to a professional Golang developer.
 - 👯 I’m looking to collaborate on exciting projects in a new work environment.
