@@ -1,11 +1,15 @@
-### Hi there 👋
+Hello, I'm Tao 👋
 
-- 👤 I am a web developer with a focus on Typescript and Golang development.
-- 🔭 I’m working on my Reactnative and Typescript side project.
-- 👯 I want to collaborate on exciting projects in a new work environment.
-- 🤔 I’m looking for help with technical stuff that I do not know and am eager to dig more into it.
-- 💬 Ask me about Golang, PHP, typescript, javascript, SQL, and some knowledge in other areas like meditation.
-- 📫 How to reach me: tao_sun@hotmail.com
-- 😄 Pronouns: Tao
-- ⚡ Fun fact: I like to take long walks, and buy books but not much time to read them all.
+I'm a seasoned Senior Software Developer focused on delivering robust applications using Go (Golang) and TypeScript. I thrive on leveraging these languages to solve complex web challenges.
 
+🚀 Exploring: Diving deeper into the React Native ecosystem as I work on personal projects, always refining my approach to modern mobile development.
+
+🌱 Seeking: Opportunities to join and contribute to collaborative teams in a challenging new work environment.
+
+🧠 Expertise: Ask me anything about Go (Golang), large-scale TypeScript/JS/PHP systems, or database design (SQL). I also welcome a chat about the benefits of meditation.
+
+😄 Pronouns: Tao
+
+📬 Contact: tao_sun@hotmail.com
+
+Fun Fact: I appreciate a good, long walk for clearing the mind, and I often use my book collection as interior decoration until I find time for them!
