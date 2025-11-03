@@ -4,9 +4,9 @@ I'm a seasoned Senior Software Developer focused on delivering robust applicatio
 
 🚀 Exploring: Diving deeper into the React Native ecosystem as I work on personal projects, always refining my approach to modern mobile development.
 
-🌱 Seeking: Opportunities to join and contribute to collaborative teams in a challenging new work environment.
+🌱 work: thrilled to join and contribute to collaborative teams in a challenging new work environment.
 
-🧠 Expertise: Ask me anything about Go (Golang), large-scale TypeScript/JS/PHP systems, or database design (SQL). I also welcome a chat about the benefits of meditation.
+🧠 Expertise: Ask me anything about large-scale TypeScript/JS/PHP systems, Go (Golang), or database design (SQL). I also welcome a chat about the benefits of meditation.
 
 😄 Pronouns: Tao
 
