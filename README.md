@@ -1,15 +1,14 @@
-Hello, I'm Tao 👋
+Senior Software Developer focusing on building robust, scalable applications with Go (Golang), TypeScript/Node.js, and AWS. I love tackling complex web and cloud challenges with clean architecture, event-driven design, and reliable systems that scale.
+🚀 Currently exploring: AWS and working toward the developer associate certificate.
+🌱 Currently working on: Joining collaborative teams where I can contribute meaningfully in fast-paced, high-impact environments.
+🧠 Ask me about:
 
-I'm a seasoned Senior Software Developer focused on delivering robust applications using Go (Golang) and TypeScript. I thrive on leveraging these languages to solve complex web challenges.
+Large-scale TypeScript/JavaScript/PHP systems
+Go backend development & microservices
+SQL database design & optimisation
+Cloud-native patterns on AWS (or Azure/GCP from past roles)
+The unexpected calm that comes from daily meditation
 
-🚀 Exploring: Diving deeper into the React Native ecosystem as I work on personal projects, always refining my approach to modern mobile development.
-
-🌱 work: Thrilled to join and contribute to collaborative teams in a challenging work environment.
-
-🧠 Expertise: Ask me anything about large-scale TypeScript/JS/PHP systems, Go (Golang), or database design (SQL). I also welcome a chat about the benefits of meditation.
-
-😄 Pronouns: Tao
-
-📬 Contact: tao_sun@hotmail.com
-
-Fun Fact: I appreciate a good, long walk for clearing the mind, and I often use my book collection as interior decoration until I find time for them!
+😄 Pronouns: he/him (Tao)
+📬 Reach out: tao_sun@hotmail.com
+Fun fact: I turn long walks into thinking sessions and use my growing book collection as unintentional home decor — one day I'll actually read them all!
