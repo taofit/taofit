@@ -18,14 +18,6 @@ The unexpected calm that comes from daily meditation
 
 Fun fact: I turn long walks into thinking sessions and use my growing book collection as unintentional home decor — one day I'll actually read them all!
 
-<!-- GitHub Stats Card -->
-![Tao's GitHub stats](https://github-readme-stats.vercel.app/api?username=taofit&show_icons=true&theme=radical)
-
-<!-- Top Languages Card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taofit&layout=compact&theme=radical&border_radius=10)
-
-<!-- Streak Stats (contributions streak) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taofit&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=taofit&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
